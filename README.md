@@ -30,4 +30,4 @@ In the present repository "Peer-graded-Assignment-Getting-and-Cleaning-Data-Cour
 6) Change the names of the activities in the data set for descriptive activity names.
 7) Change the state labels the data set to descriptive variable names.
 8) Creates final tidy data set and output it.
-
+9) Create a codebook
